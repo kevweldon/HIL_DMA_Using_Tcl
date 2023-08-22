@@ -1,9 +1,0 @@
-	component hil_sys is
-		port (
-			clk_clk                : in  std_logic := 'X'; -- clk
-			reset_reset            : in  std_logic := 'X'; -- reset
-			sink_dma_csr_irq_irq   : out std_logic;        -- irq
-			source_dma_csr_irq_irq : out std_logic         -- irq
-		);
-	end component hil_sys;
-
