@@ -4,7 +4,7 @@ rmdir .qsys_edit ip hil_sys /s /q
 del *.rpt *.sof *.summary *.smsg *.pin *~ /s
 del *.qsf *.qpf *.qws *.v *.sv *.sdc *.done *.qsys /s
 del *.cdf *.sld *.qarlog *.legacy *.log *.rec /s
-del *.json *.qdf *.xml *.ini #*# /s
+del *.json *.qdf *.xml *.ini #*# *.save /s
 del serv_req_info.txt
 
 

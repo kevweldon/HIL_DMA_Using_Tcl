@@ -1,1 +1,1 @@
-quartus_sh --restore hil_dma_23_4_0_79.qar
+quartus_sh --restore hil_dma_24_1_0_115.qar
